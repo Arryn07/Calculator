@@ -73,6 +73,11 @@ h1 {
     height: 60px;
 }
 
+.btn {
+    font-size: 25px;
+    font-family: monospace;
+}
+
 .btn:hover {
     opacity: 1.75;
 }
